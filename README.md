@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Daniela</h1>
 <h3 align="center">New to data analysis and loving what I've learned so far 🤓</h3>
 
-- 🔭 I’m currently working on [my newest Dashboard (study purposes)](bit.ly/Contoso-Dashboard-byDaniela)
+- 📊 I’m currently working on [my newest Dashboard (study purposes)](https://app.powerbi.com/view?r=eyJrIjoiMjRiYTJlN2ItNjYyMS00Y2VjLWFlMzgtOTgwNzc4YjViNmQ2IiwidCI6ImMxYTNmZDRkLTA5MmQtNDRhMS04MWJlLTMyNTdjNzQyY2MxMCIsImMiOjh9)
 
 - 🌱 I’m currently learning **Python**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **danicl2@hotmail.com**
 
-- 📄 Know about my experiences [bit.ly/Daniela-CV](bit.ly/Daniela-CV)
+- 📄 Know about my experiences [https://bit.ly/Daniela-CV](https://bit.ly/Daniela-CV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
