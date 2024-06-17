@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Daniela</h1>
+<h1 align="center">Hi,👋  I'm Daniela</h1>
 <h3 align="center">New to data analysis and loving what I've learned so far 🤓</h3>
 
 - 📊 I’m currently working on [my newest Dashboard (study purposes)](https://app.powerbi.com/view?r=eyJrIjoiMjRiYTJlN2ItNjYyMS00Y2VjLWFlMzgtOTgwNzc4YjViNmQ2IiwidCI6ImMxYTNmZDRkLTA5MmQtNDRhMS04MWJlLTMyNTdjNzQyY2MxMCIsImMiOjh9)
