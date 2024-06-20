@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **danicl2@hotmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/Daniela-CV](https://bit.ly/Daniela-CV)
+- 📄 Know about my experiences [https://bit.ly/Daniela-CV](https://bit.ly/Daniela-CV-2)
 
 <!---
 
